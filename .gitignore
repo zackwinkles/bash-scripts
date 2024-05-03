@@ -1,0 +1,10 @@
+src/ecma48-cpr
+src/ecma48-cpr.o
+src/consoletype
+src/consoletype.o
+
+# ignore local backups of uhhhh.... anything, really
+*.orig
+*.rej
+*.bak
+*~
